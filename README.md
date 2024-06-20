@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sohaib Ikram</h1>
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
+
+
+## 💫 About Me:
 I'm currently working on my old projects which is in HTML modify them using React js<br>I'm currently learning React js<br>Ask me about Web Development, Operation system and DSA<br>Portfolio https://sohaib-ikram.netlify.app/
 
 
