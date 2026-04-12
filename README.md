@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚   I'm currently learning Nest Js<br>🤓  Ask me about Web Development, Operation system and DSA<br>👨‍💻  Portfolio https://sohaib-ikram.vercel.app/</p>
+<p align="left">🤓  Ask me about Web Development, Operation system and DSA<br>👨‍💻  Portfolio https://sohaib-ikram.vercel.app/</p>
 
 ###
 
