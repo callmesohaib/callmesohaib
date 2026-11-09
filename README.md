@@ -1,94 +1,137 @@
+<h1 align="center">Hi 👋, I'm Sohaib Ikram</h1>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="center">My name is Sohaib Ikram and A passionate full stack developer from Pakistan</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🤓  Ask me about Web Development, Operation system and DSA<br>👨‍💻  Portfolio https://sohaib-ikram.vercel.app/</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-</div>
-
-###
-
-<h2 align="left">Social Media Accounts</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sohaib-ikram249/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://sohaib-ikram.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;20%2B+Production+Apps+Shipped;Payments+%7C+Automation+%7C+AI+Integrations;CS+Graduate+%40+UET+Lahore" alt="Typing SVG" />
   </a>
-  <a href="https://www.facebook.com/sohaib.ikram.9461" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/sohaib.__.hoon/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <a href="https://sohaib-ikram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sohaib-ikram249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sohaibikram249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmesohaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats%20" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callmesohaib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  
-###
+---
+
+## 🚀 About Me
+
+I'm a **MERN Stack Developer** from Lahore, Pakistan. I've shipped **20+ production applications** for client platforms, from back-office systems to customer-facing products.
+
+- 🧩 I build complete features with **MongoDB, Express.js, React.js, and Node.js**: REST APIs, reusable UI components, and secure payment flows.
+- 💳 I've integrated **5 payment gateways**: Stripe, PayPal, Coinbase, M-Pesa, and Paystack.
+- 🤖 I build AI tools with **OpenAI, Google Gemini, and RAG (retrieval-augmented generation)**.
+- 🎓 B.Sc. Computer Science, **UET Lahore** (2022–2026), CGPA **3.5/4.0**.
+- 💬 Ask me about **Web Development, Operating Systems, and DSA**.
+- 📫 Reach me at **sohaibikram249@gmail.com**.
+
+---
+
+## 🛠️ Tech Stack
+
+**MERN Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN" />
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
+</p>
+
+**Frameworks & Styling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,django,fastapi,tailwind,bootstrap,prisma" alt="Frameworks" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" alt="Databases" />
+</p>
+
+**Cloud, Deployment & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman,vscode" alt="Tools" />
+</p>
+
+**Integrations & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coinbase-0052FF?style=flat-square&logo=coinbase&logoColor=white" />
+  <img src="https://img.shields.io/badge/M--Pesa-00A650?style=flat-square" />
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/DocuSign-FFCC22?style=flat-square&logo=docusign&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+**🏢 Tiers Limited**: Associate Software Engineer (MERN) · *Remote · Sep 2025 – Oct 2026*
+- Developed and maintained **20+ production MERN apps**, shipping Node/Express REST APIs and reusable React components.
+- Integrated **Stripe, PayPal, Coinbase, M-Pesa, and Paystack** to handle secure transactions across multiple payment methods.
+- Deployed **WhatsApp and SMS automation** with SMS Leopard for real-time customer engagement.
+
+**✈️ Bookme**: Software Engineer Intern · *Onsite · Jul 2026 – Aug 2026*
+- Built admin and back-office tools for Pakistan's travel marketplace.
+- Designed **hotel inventory distribution APIs** for online travel agencies, travel agents, and corporate resellers.
+- Set up reseller onboarding (API credentials, contracts, distribution rules) with **3 access levels**: Platform, Chain, and Hotel.
+
+**⚡ Project Implementation Unit, LESCO**: Software Engineer Intern · *Onsite · Jul 2025 – Sep 2025*
+- Built the **Daily Daak portal** front end: document management, dispatch tracking, file reader, and PDF export.
+- Automated the dispatch pipeline, merging **3 manual steps into 1 workflow**.
+
+**🏢 Tiers Limited**: MERN Stack Intern · *Remote · Jun 2025 – Aug 2025*
+- Delivered **Buy Box Mafia**, a property bidding platform with role-based access for Admin, Sub-admin, and Scout.
+- Implemented **DocuSign** e-signatures with live PDF previews, replacing a 3-step manual signing process with 1 automated flow.
+- Matched deals to buyers by location, budget, and fit score on an interactive **Leaflet** map, with email and Discord alerts.
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧑‍💼 **Automated HR System** *(Final Year Project)* | End-to-end HR platform covering resume screening, recruitment, payroll, attendance, and an onboarding FAQ chatbot. A hybrid ranking engine combines an **MS MARCO MiniLM cross-encoder** with a six-dimension weighted score for transparent, auditable hiring. | Next.js · Django REST · FastAPI |
+| 🦷 **Dental CRM & Patient Portal** | Patient management, appointments, billing, self-service booking, and records, with Google Calendar sync, M-Pesa STK Push, and SMS/WhatsApp automation. | MERN · M-Pesa · Google Calendar |
+| 📧 **Email Automation Agent** | AI agent that classifies incoming emails and drafts personalized replies. It automates order tracking, complaint escalation, and support. | OpenAI · Gmail API · WooCommerce · ShipEngine · RAG |
+| 🛒 **SK1PR E-Commerce Store** | Production store with catalog, club shop, cart, checkout, wishlist, coupons, and authentication, plus an admin backend for products, media, orders, and content pages. | MERN · Cloudinary |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=callmesohaib&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callmesohaib&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=callmesohaib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmesohaib&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=callmesohaib&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center"><i>Building reliable software that improves operations, user engagement, and product delivery. ⚡</i></p>
