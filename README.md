@@ -113,22 +113,6 @@ I'm a **MERN Stack Developer** from Lahore, Pakistan. I've shipped **20+ product
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmesohaib&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callmesohaib&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=callmesohaib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmesohaib&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=callmesohaib&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile views" />
